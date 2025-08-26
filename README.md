@@ -8,7 +8,9 @@ Backend:
 - Spring Security + JWT
 - Lombok
 - Swagger/OpenAPI
+  
 Frontend:
+
 - Angular CLI
 - FullCalendar
 - HttpClient para consumo de la API
